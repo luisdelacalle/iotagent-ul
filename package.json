@@ -22,7 +22,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "amqplib": "^0.5.1",
+    "amqplib": "^0.7.1",
     "async": "1.5.2",
     "body-parser": "1.15.0",
     "dateformat": "1.0.12",
